@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-08-gallery-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "bwatch": "webpack --watch",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titoffroma/goit-js-hw-08-gallery-parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Titoffroma/goit-js-hw-08-gallery-parcel/issues"
+  },
+  "homepage": "https://github.com/Titoffroma/goit-js-hw-08-gallery-parcel#readme",
+  "devDependencies": {
+    "webpack": "^5.1.3",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
